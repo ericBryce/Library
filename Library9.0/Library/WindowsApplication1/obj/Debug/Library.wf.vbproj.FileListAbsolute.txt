@@ -1,0 +1,5 @@
+C:\Users\Will\Documents\Library\Library 1.0\Library\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Will\Documents\Library\Library 1.0\Library\WindowsApplication1\obj\Debug\Library.wf.vbproj.ResolveComReference.cache
+C:\Users\Will\Documents\Library\Library 1.0\Library\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Will\Documents\Library\Library 1.0\Library\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Will\Documents\Library\Library 1.0\Library\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
